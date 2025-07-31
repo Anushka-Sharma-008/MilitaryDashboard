@@ -94,10 +94,9 @@ Sourced from Kaggle’s [Global Firepower 2022 Dataset](https://www.kaggle.com/d
 - 🧠 **Highlights custom military ratios** like *Budget per Manpower*, *Aircraft per Billion Budget*, and more — enabling deep comparative analysis.
 - 🛠️ **Includes slicer-driven interactivity**, PivotTables, radar visualizations, and a fully functional **VBA Reset Button** to reset filters in one click.
 - 🧮 **Power Query and formula logic used extensively** for data transformation, KPI calculations, and dynamic visuals.
-- 💼 Designed to reflect real-world analyst deliverables, and to help decision-makers quickly identify patterns in global defense distribution.
+- 💼 Designed to reflect real-world analyst deliverables, and to help decision-makers quickly identify patterns in **global defense distribution**.
 - ✅ 100% **Excel-native** — no external tools or plugins required.
 - 🌐 **Dataset sourced from Kaggle’s Global Firepower 2022**, cleaned and modeled for optimal dashboard performance.
-- 👩‍💻 Crafted with precision by **Anushka Sharma** to showcase end-to-end dashboarding and data storytelling skills.
 
 ---
 
